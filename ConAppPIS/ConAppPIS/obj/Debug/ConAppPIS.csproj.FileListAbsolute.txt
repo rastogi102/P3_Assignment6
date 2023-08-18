@@ -1,0 +1,8 @@
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\bin\Debug\ConAppPIS.exe.config
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\bin\Debug\ConAppPIS.exe
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\bin\Debug\ConAppPIS.pdb
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\obj\Debug\ConAppPIS.csproj.AssemblyReference.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\obj\Debug\ConAppPIS.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\obj\Debug\ConAppPIS.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\obj\Debug\ConAppPIS.exe
+F:\Training Stuff\Database_ASP.NET\Assignments\6\ConAppPIS\ConAppPIS\obj\Debug\ConAppPIS.pdb
